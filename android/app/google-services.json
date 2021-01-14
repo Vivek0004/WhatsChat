@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195135195111",
+    "firebase_url": "https://flash-chat-6f04d.firebaseio.com",
+    "project_id": "flash-chat-6f04d",
+    "storage_bucket": "flash-chat-6f04d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195135195111:android:357994a6ca10031f961f42",
+        "android_client_info": {
+          "package_name": "co.vivek.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195135195111-7ukvb85g5j5vjk49g3hjav2g0crtvuov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC54kASq7mgeVCL0c0hAW06Oc0bofl-YwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195135195111-7ukvb85g5j5vjk49g3hjav2g0crtvuov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
